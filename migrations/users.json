@@ -1,0 +1,26 @@
+[
+  {
+    "PK": "@hiroki1223",
+    "SK": "user",
+    "Username": "hiroki",
+    "HashedPassword": "$2b$12$3PIhjarSDpY3ZXrppmYL.eMGNNf1zS8CkV.YbTO6SqOVKGROXaMwW",
+    "Email": "hiroki@email.com",
+    "Profile": ""
+  },
+  {
+    "PK": "@gonbe1223",
+    "SK": "user",
+    "Username": "gonbe",
+    "HashedPassword": "$2b$12$ReyeQRlBu8Yk96oye8gh4e9r5ZlI5djMQTB1AGgbRCN8C8yi5.ytq",
+    "Email": "gonbe@email.com",
+    "Profile": ""
+  },
+  {
+    "PK": "@piroty1223",
+    "SK": "user",
+    "Username": "piroty",
+    "HashedPassword": "$2b$12$IE8K0awdHpBV1n8Xdu1HsO7GzaSJFZyOiw/4LExbFVnZtO3k7p.LW",
+    "Email": "piroty",
+    "Profile": ""
+  }
+]

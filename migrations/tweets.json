@@ -1,0 +1,34 @@
+[
+  {
+    "PK": "TWEET#1",
+    "SK": "tweet",
+    "Data": "@hiroki1223",
+    "Username": "hiroki",
+    "Text": "hiroki coming",
+    "CreatedAt": 1560000000
+  },
+  {
+    "PK": "TWEET#4",
+    "SK": "tweet",
+    "Data": "@hiroki1223",
+    "Username": "hiroki",
+    "Text": "hiroki 腹減った",
+    "CreatedAt": 1560000000
+  },
+  {
+    "PK": "TWEET#2",
+    "SK": "tweet",
+    "Data": "@gonbe1223",
+    "Username": "gonbe",
+    "Text": "ゴンべ登場",
+    "CreatedAt": 1660000000
+  },
+  {
+    "PK": "TWEET#3",
+    "SK": "tweet",
+    "Data": "@piroty1223",
+    "Username": "piroty",
+    "Text": "Pirotyは寝る",
+    "CreatedAt": 1590000000
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "PK": "COMMENT#1",
+    "SK": "comment",
+    "Data": "TWEET#1",
+    "UserId": "@hiroki1223",
+    "Username": "hiroki",
+    "Text": "みんないいねしてね",
+    "CreatedAt": 1681016428131
+  },
+  {
+    "PK": "COMMENT#2",
+    "SK": "comment",
+    "Data": "TWEET#1",
+    "UserId": "@gonbe1223",
+    "Username": "gonbe",
+    "Text": "それおもしろそう",
+    "CreatedAt": 1621016428131
+  },
+  {
+    "PK": "COMMENT#3",
+    "SK": "comment",
+    "Data": "TWEET#1",
+    "UserId": "@piroty1223",
+    "Username": "piroty",
+    "Text": "おれもやってみたい",
+    "CreatedAt": 1641016428131
+  },
+  {
+    "PK": "COMMENT#4",
+    "SK": "comment",
+    "Data": "TWEET#1",
+    "UserId": "@gonbe1223",
+    "Username": "gonbe",
+    "Text": "でしょ！",
+    "CreatedAt": 1651016428131
+  }
+]

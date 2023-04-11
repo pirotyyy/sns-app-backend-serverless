@@ -1,0 +1,18 @@
+[
+  {
+    "PK": "FOLLOW#@hiroki1223",
+    "SK": "FOLLOWEE#@piroty1223"
+  },
+  {
+    "PK": "FOLLOW#@hiroki1223",
+    "SK": "FOLLOWEE#@gonbe1223"
+  },
+  {
+    "PK": "FOLLOW#@piroty1223",
+    "SK": "FOLLOWEE#@hiroki1223"
+  },
+  {
+    "PK": "FOLLOW#@gonbe1223",
+    "SK": "FOLLOWEE#@piroty1223"
+  }
+]

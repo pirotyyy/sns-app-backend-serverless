@@ -1,0 +1,26 @@
+[
+  {
+    "PK": "TWEET#1",
+    "SK": "LIKED#@gonbe1223"
+  },
+  {
+    "PK": "TWEET#1",
+    "SK": "LIKED#@hiroki1223"
+  },
+  {
+    "PK": "TWEET#1",
+    "SK": "LIKED#@piroty1223"
+  },
+  {
+    "PK": "TWEET#2",
+    "SK": "LIKED#@gonbe1223"
+  },
+  {
+    "PK": "TWEET#2",
+    "SK": "LIKED#@hiroki1223"
+  },
+  {
+    "PK": "TWEET#3",
+    "SK": "LIKED#@piroty1223"
+  }
+]
