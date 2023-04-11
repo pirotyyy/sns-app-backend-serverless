@@ -46,7 +46,7 @@ export class AuthController {
       path: '/',
     });
     return {
-      message: 'User logout successfully',
+      message: 'User logout successfully!',
     };
   }
 }
